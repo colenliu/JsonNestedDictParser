@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 OVERVIEW:
 
-Given a JSON file that encodes a nested key-value structure, my solution, named getKeysAndOccurrences, 
+Given a JSON file that encodes a nested key-value structure, my solution, named getKeysAndOccurrences (inside colenAnswer.py), 
 stores each key present in the structure as well as the number of occurrences for each of those keys. The newly 
 created mapping is converted to JSON, and then printed to STDOUT.
 
